@@ -1,4 +1,6 @@
 import flet as ft
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning)
 import re
 
 # ===== TEAM BRANDING - YOUR BRAND! =====
