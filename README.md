@@ -23,3 +23,4 @@ South Africans lose millions to SMS scams, fake jobs, SASSA scams, mashonisa. Sa
 SafeRand Blue #003366 | Light Blue #00A9CE | Independent — Not affiliated with any bank
 
 ### 🚀 Run
+Test: test@test.com/ 123456
